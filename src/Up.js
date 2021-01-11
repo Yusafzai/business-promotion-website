@@ -1,7 +1,6 @@
 import React from 'react'
 import './Up.css';
 import Logo from './poster.png';
-import Lago from './arrow.svg';
 
 
 
@@ -26,7 +25,6 @@ function Up() {
          Click me
          </button>
          
-         <img className="yay animate-bounce" src={Lago} alt="another"/>
         </div>
 
          <img className="image relative shadow-md" src={Logo} alt="poster"/>  
