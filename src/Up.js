@@ -1,6 +1,7 @@
 import React from 'react'
 import './Up.css';
 import Logo from './poster.png';
+import Lago from './arrow.svg';
 
 
 
@@ -24,11 +25,14 @@ function Up() {
          <button class="button relative py-2 px-4 bg-green-500 text-white font-semibold rounded-r-lg shadow-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-400 focus:ring-opacity-75">
          Click me
          </button>
-
+         
+         <img className="yay animate-bounce" src={Lago} alt="another"/>
         </div>
 
-         <img className="image relative shadow-md" src={Logo} alt="poster"/>
+         <img className="image relative shadow-md" src={Logo} alt="poster"/>  
+         
          </div>
+        
         </div>
     )
 }

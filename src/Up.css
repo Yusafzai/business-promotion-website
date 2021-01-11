@@ -26,3 +26,11 @@
     width: 100px;
     height: 55px;
 }
+
+.yay {
+    width: 20px;
+    height: 20px;
+    left: 800px;
+    top: 350px;
+    position: relative;
+}
