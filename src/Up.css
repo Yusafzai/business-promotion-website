@@ -1,0 +1,28 @@
+.second {
+    height: 700px;
+    background-color: #f3f7f9;
+    width: 62rem;
+}
+.lag {
+    background-color: #f3f7f9;
+}
+
+.image {
+    /* left: 1000px; */
+    height: 500px;
+    bottom: 100px;
+    top: 100px;
+}
+
+.input {
+    position: relative;
+    top: 200px;
+    left: 100px;
+}
+
+.button {
+    top: 200px;
+    position: relative;
+    width: 100px;
+    height: 55px;
+}
