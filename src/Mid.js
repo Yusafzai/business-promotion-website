@@ -15,10 +15,11 @@ function Mid() {
          
          <div className="imager bottom-96 relative flex justify-center">
          <img className="pic" src={Laga} alt="this"/>
-
-         <p className="text top-56 text-2xl right-72 relative text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br/>eiusmod tempor incididunt ut labore et dolore magna aliqua. <br/>Ut enim ad minim veniam, quis nostrud exercitation ullamco <br/>laboris nisi ut aliquip ex ea commodo consequat. Duis aute <br/> irure dolor in reprehenderit in voluptate velit esse cillum <br/>dolore eu fugiat nulla pariatur.</p>
+          <p className="para text-2xl text-gray-400">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br/>eiusmod tempor incididunt ut labore et dolore magna aliqua. <br/>Ut enim ad minim veniam, quis nostrud exercitation ullamco <br/>laboris nisi ut aliquip ex ea commodo consequat. Duis aute <br/> irure dolor in reprehenderit in voluptate velit esse cillum <br/>dolore eu fugiat nulla pariatur.</p>
          </div>
         
+         
+
          <div className="flex justify-center">
          <img src={Lege} alt="leges"/>
          </div>

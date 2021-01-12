@@ -1,0 +1,44 @@
+.this {
+    background-color: #3f4975;
+    height: 800px;
+}
+
+.and {
+   top: 300px;
+   right: 200px;
+   width: 300px;
+   height: 400px;
+   border-radius: 10px;
+   background-color: #ffffff;
+}
+
+.butter {
+    top: 240px;
+    left: 10px;
+    width: 280px;
+    color: white;
+}
+
+.gray {
+    background-color: #f3f7f9;
+    height: 60px;
+    text-align: center;
+    position: relative;
+}
+
+.then {
+    background-color: #ffffff;
+    width: 370px;
+    height: 500px;
+    border-radius: 10px;
+    bottom: 170px;
+    position: relative;
+    left: 70px;
+}
+
+.butter2 {
+    top: 330px;
+    left: 10px;
+    width: 350px;
+    color: white;
+}

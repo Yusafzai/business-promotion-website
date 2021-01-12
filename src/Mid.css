@@ -3,15 +3,16 @@
     height: 1000px;
 }
 
-.text {
-    top: 500px;
-    right: 270px;
+.para {
+   position: relative;
+   top: 500px;
+   right: 240px;
 }
 
 .pic {
-   bottom: 100px;
-   left: 330px;
+   bottom: 140px;
    position: relative;
+   left: 330px;
 }
 
 .imager {
